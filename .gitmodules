@@ -1,0 +1,3 @@
+[submodule "securityVue"]
+	path = securityVue
+	url = https://github.com/DankoCaboski/securityVue
